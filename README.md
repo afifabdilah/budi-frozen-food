@@ -4,6 +4,14 @@ Aplikasi web sederhana untuk mencatat produk frozen food milik **Pak Budi**. Dib
 
 ---
 
+## 🌐 Demo Online
+
+Klik untuk membuka aplikasi: **https://empirical-decor-computer-downloadable.trycloudflare.com**
+
+> Demo berjalan dari komputer pengembang, jadi hanya aktif selama server menyala.
+
+---
+
 ## Fitur
 
 1. **Pencatatan produk** — tambah, lihat, ubah, dan hapus produk (nama, harga, stok, satuan, deskripsi).
