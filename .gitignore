@@ -1,0 +1,27 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.sublime-*
+
+# Log & file sementara
+*.log
+*.tmp
+error_log
+php_errors.log
+
+# Konfigurasi lokal (jika nanti dipisah dari config.php)
+.env
+.env.local
+
+# Backup / dump lokal
+*.sql.bak
+*.zip
+
+# Composer / Node (tidak dipakai, jaga-jaga)
+/vendor/
+/node_modules/

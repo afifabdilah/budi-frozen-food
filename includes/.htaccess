@@ -1,0 +1,2 @@
+# Blokir akses langsung ke folder includes (Apache 2.4 / XAMPP)
+Require all denied
